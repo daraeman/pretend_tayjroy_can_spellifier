@@ -1,2 +1,4 @@
 # pretend_tayjroy_can_spellifier
-Lets @tayjroy pretend she can spell.
+Greasemonkey / Tampermonkey userscripts that let @tayjroy pretend she can spell.
+
+Bonus! Lets her pretend she can capitalize as well!
